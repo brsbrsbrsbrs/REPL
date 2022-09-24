@@ -1,0 +1,23 @@
+{
+    "bot": {
+        "prefix": "u!",
+        "id": "1022062762471473255",
+        "secret": "u8tdRbDzPcI_a6yqBIZ71psIU1rCB3CJ"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://uptimer-website.crisode.repl.co",
+        "callback": "https://uptimer-website.crisode.repl.co/callback",
+        "discord_server_ID": "1022066048033370162",
+        "owners": [
+            "844078968252792842"
+        ],
+        "arc": {
+            "enabled": "false",
+            "code": ""
+        }
+    },
+    "mongodb": "mongodb+srv://BRL:brlmongodb@cluster0.a9rglt4.mongodb.net/?retryWrites=true&w=majority",
+    "discord": "https://dscolink.ga/discord",
+    "logs": "1022066098427940926"
+}
